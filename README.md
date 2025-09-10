@@ -49,13 +49,17 @@ The application will process the image and display whether it is real or fake, a
 
 ## Result Snapshots
 **Front-end UI:** Introduction and project overview when the app starts.
+
 ![Screenshot 2024-07-23 210810](https://github.com/user-attachments/assets/a6accefd-e20d-45db-b639-2c6e755ebc23)<br>
-**Image selection:** Choose an image for detection.
+**Image selection**: Choose an image for detection.
+
 ![Screenshot 2024-07-23 210853](https://github.com/user-attachments/assets/80529dfd-b428-434e-bd71-246aac435a7f)<br>
 **Detection Result (Real)**: Shows the result if the image is authentic.
+
 ![Screenshot 2024-06-09 173651](https://github.com/user-attachments/assets/c5e084a8-c33f-4d6d-84ee-27016760d58e)<br>
 **Detection Result (Fake):** Shows the result if the image is a deepfake.
-![Screenshot 2024-06-09 173818](https://github.com/user-attachments/assets/2336d6df-7ebc-4cda-939b-f9da21e5a22b)
+
+![Screenshot 2024-06-09 173818](https://github.com/user-attachments/assets/2336d6df-7ebc-4cda-939b-f9da21e5a22b)<br>
 
 
 ## Tools
