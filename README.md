@@ -23,8 +23,8 @@ The project code is available in the [Code folder](https://github.com/Atmuri-Sat
 
 1. **Clone the repository:**  
 ```bash
-git clone https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI.git
-cd DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
+git clone https://github.com/Atmuri-SatyaPrakash/DeepFake_Detection_Project.git
+cd DeepFake_Detection_Project
 ```
 
 2. **Install dependencies:**
